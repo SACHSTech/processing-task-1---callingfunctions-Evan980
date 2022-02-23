@@ -39,6 +39,20 @@ public class Sketch extends PApplet {
 
   //Body of house
     rect(90, 150, 220, 150);
+
+  // Colour and stroke settings for sun
+    fill(255, 255, 0);
+    strokeWeight(1);
+    stroke(0);
+
+  //Sun
+    ellipse(0, 0, 200, 200);
+
+  //Colour for window
+    fill(255, 255, 255);
+
+  //Window
+    ellipse(200, 105, 20, 20);
     
 
   
