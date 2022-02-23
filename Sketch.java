@@ -53,9 +53,6 @@ public class Sketch extends PApplet {
 
   //Window
     ellipse(200, 105, 20, 20);
-    
-
-  
   }
   
   
